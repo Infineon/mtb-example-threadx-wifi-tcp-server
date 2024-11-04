@@ -4,7 +4,7 @@ This code example demonstrates the implementation of a TCP server with CYW955913
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-threadx-wifi-tcp-server)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzg2NjEiLCJTcGVjIE51bWJlciI6IjAwMi0zODY2MSIsIkRvYyBUaXRsZSI6IlRDUCBzZXJ2ZXIiLCJyaWQiOiJ2ZWxtdXJ1Z2FuIiwiRG9jIHZlcnNpb24iOiIxLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiV0lGSSJ9)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzg2NjEiLCJTcGVjIE51bWJlciI6IjAwMi0zODY2MSIsIkRvYyBUaXRsZSI6IlRDUCBzZXJ2ZXIiLCJyaWQiOiJ2ZWxtdXJ1Z2FuIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiV0lGSSJ9)
 
 
 ## Requirements
@@ -296,7 +296,8 @@ Document title: *CE238661* - *TCP server*
 
  Version | Description of change 
  ------- | --------------------- 
- 1.0.0   | New code example.      
+ 1.0.0   | New code example.
+ 1.1.0   | Adjusted the application heap size
 
 
 
